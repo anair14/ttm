@@ -1,0 +1,26 @@
+body {
+    background: #1e1e1e;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.timer {
+    font-size: 48px;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    background: orange;
+    border: none;
+    color: black;
+    font-weight: bold;
+}
+
